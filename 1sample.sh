@@ -2,8 +2,8 @@ ls -l
 
 uname -a
 
-yum list install
+yum list installed
 
-rm-r
+
 
 

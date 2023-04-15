@@ -4,4 +4,6 @@ uname -a
 
 yum list install
 
+rm-r
+
 

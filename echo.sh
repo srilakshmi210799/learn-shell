@@ -5,5 +5,5 @@
 #/e[0m  --disable the color
 
 echo -e "/e[31mRED COLOR /e[0m"
-HELLO
-NORMAL TEXT
+hello
+normal text

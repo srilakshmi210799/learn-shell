@@ -4,3 +4,5 @@ name=devops
 #printing variable
 echo a=$a
 echo name=${name}
+date=20-04-2023
+today date is ${date}

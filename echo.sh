@@ -4,5 +4,5 @@ echo hello world
 #colm -colorcode- red(31m),green(32m),yellow(33m),blue(34m),magenta(35m),cyon(36m).
 #/e[0m  --disable the color
 
-echo -e "/e[31mRED COLOR /e[0m"
-echo normaltext
+echo -e "/e[31mRED COLOR/e[0m"
+echo normal text

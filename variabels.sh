@@ -5,4 +5,4 @@ name=devops
 echo a=$a
 echo name=${name}
 date=20-04-2023
-today date is ${date}
+echo today date is ${date}

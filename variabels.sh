@@ -11,4 +11,4 @@ echo today date is ${date}
 date=$(date +%f)
 ##arthmatic substitution
 arth=($(2-3*4/2))
-echo arth =${arth}
+echo arth=${arth}

@@ -7,3 +7,9 @@ echo hello world
 
 echo -e "\e[31mRED COLOR\e[0m"
 echo Normal Text
+# special variabels for inputs
+echo script name - $0
+echo first argument - $1
+echo second argument - $2
+echo all arguments - $*
+echo no of arguments - $#

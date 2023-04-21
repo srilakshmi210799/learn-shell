@@ -15,4 +15,4 @@ function_name1(){
   echo all arguments - $*
   echo no of arguments - $#
 }
-function_name1
+function_name1 sri ram 123

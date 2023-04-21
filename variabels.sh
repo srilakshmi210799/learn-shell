@@ -12,3 +12,9 @@ date=$(date +%f)
 ##arthmatic substitution
 ARTH=$((2-3*4/2))
 echo ARTH=${ARTH}
+# special variabels for inputs
+echo script name - $0
+echo first argument - $1
+echo second argument - $2
+echo all arguments - $*
+echo no of arguments - $#
